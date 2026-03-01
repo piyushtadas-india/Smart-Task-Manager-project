@@ -1,4 +1,4 @@
-I recently worked on a Task Management System as my major project.
+I recently worked on a Smart-Task-Manager as my major project.
 In this system, the admin or trainer assigns tasks to students, and students complete those tasks using secure role-based authentication.
 Students can upload their Git repository link for the assigned work, and the trainer can review it. 
 The admin or trainer can approve the submitted work or decline student accounts from their login.
